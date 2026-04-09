@@ -62,8 +62,8 @@ lib/
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/jibon_rokkha.git
-    cd jibon_rokkha
+    git clone https://github.com/ehmasuk/jibon-rokkha.git
+    cd jibon-rokkha
     ```
 
 2.  **Install dependencies:**
@@ -85,14 +85,9 @@ lib/
 
 ## 📸 Screenshots
 
-> [!TIP]
-> Add screenshots of the Home Screen, First Aid Guide, and PDF Reports here to showcase the UI.
-
 | Home Screen | First Aid Guide |
-|:---:|:---:|
-| <img width="322" height="606" alt="image" src="https://github.com/user-attachments/assets/895133e6-71a5-47bc-8849-4119eb653e5d" />
- | <img width="319" height="696" alt="image" src="https://github.com/user-attachments/assets/30fdfeba-8f10-4f56-b5bd-3f1f1de2bff6" />
- |
+| :---------: | :-------------: |
+| <img width="322" height="606" alt="Home Screen" src="https://github.com/user-attachments/assets/895133e6-71a5-47bc-8849-4119eb653e5d" /> | <img width="319" height="696" alt="First Aid Guide" src="https://github.com/user-attachments/assets/30fdfeba-8f10-4f56-b5bd-3f1f1de2bff6" /> |
 
 ---
 
@@ -101,9 +96,9 @@ lib/
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
+3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
+4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
 ---
@@ -116,6 +111,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Support
 
-If you have any questions or feedback, please reach out via the [Issue Tracker](https://github.com/yourusername/jibon_rokkha/issues).
+If you have any questions or feedback, please reach out via the [Issue Tracker](https://github.com/ehmasuk/jibon-rokkha/issues).
 
 Developed with ❤️ for the community.
