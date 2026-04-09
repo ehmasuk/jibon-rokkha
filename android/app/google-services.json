@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252738993371",
+    "project_id": "jibon-rokkha-c98c9",
+    "storage_bucket": "jibon-rokkha-c98c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252738993371:android:e01e4f2a44b34dae92e0fe",
+        "android_client_info": {
+          "package_name": "com.example.jibon_rokkha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqqgDRdqt_GPd7A93TtOIP3PVTTo4W9KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,74 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# --- Security & Secrets ---
+# Environment variables and secrets
+.env*
+*.secret
+secrets.json
+lib/secrets.dart
+
+# Android security: Keystores, private keys, and local properties
+*.keystore
+*.jks
+*.p12
+*.pem
+local.properties
+/android/key.properties
+/android/app/src/main/assets/google-services.json
+# Uncomment the line below if you want to keep Firebase config private
+# google-services.json
+
+# iOS security: Certificates and mobile provisions
+*.mobileprovision
+*.cert
+*.p12
+fastlane/report.xml
+fastlane/Preview.html
+**/xcbaseline/
+
+# --- IDEs & OS ---
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS / Windows / Linux
+Thumbs.db
+desktop.ini
+.directory
+*~
+
+# --- Flutter/Dart/Pub ---
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android Studio artifacts
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/app/src/main/res/raw/google_services.json
