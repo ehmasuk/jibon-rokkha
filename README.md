@@ -22,14 +22,14 @@
 
 ## 🛠️ Technology Stack
 
-| Layer | Technology |
-|---|---|
-| **Framework** | [Flutter](https://flutter.dev/) (v3.x) |
-| **Language** | [Dart](https://dart.dev/) |
-| **State Management** | [Riverpod](https://riverpod.dev/) |
-| **Local Database** | [Hive](https://docs.hivedb.dev/) |
-| **Cloud Database** | [Cloud Firestore](https://firebase.google.com/docs/firestore) |
-| **Backend** | [Firebase Core](https://firebase.google.com/docs/core) |
+| Layer                | Technology                                                    |
+| -------------------- | ------------------------------------------------------------- |
+| **Framework**        | [Flutter](https://flutter.dev/) (v3.x)                        |
+| **Language**         | [Dart](https://dart.dev/)                                     |
+| **State Management** | [Riverpod](https://riverpod.dev/)                             |
+| **Local Database**   | [Hive](https://docs.hivedb.dev/)                              |
+| **Cloud Database**   | [Cloud Firestore](https://firebase.google.com/docs/firestore) |
+| **Backend**          | [Firebase Core](https://firebase.google.com/docs/core)        |
 
 ---
 
@@ -60,12 +60,14 @@ lib/
 ### Installation
 
 1.  **Clone the repository:**
+
     ```bash
     git clone https://github.com/yourusername/jibon_rokkha.git
     cd jibon_rokkha
     ```
 
 2.  **Install dependencies:**
+
     ```bash
     flutter pub get
     ```
@@ -86,9 +88,9 @@ lib/
 > [!TIP]
 > Add screenshots of the Home Screen, First Aid Guide, and PDF Reports here to showcase the UI.
 
-| Home Screen | First Aid Guide |
-|:---:|:---:|
-| *Placeholder for Home* | *Placeholder for Guide* |
+|      Home Screen       |     First Aid Guide     |
+| :--------------------: | :---------------------: |
+| _Placeholder for Home_ | _Placeholder for Guide_ |
 
 ---
 

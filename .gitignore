@@ -16,6 +16,7 @@ migrate_working_dir/
 *.secret
 secrets.json
 lib/secrets.dart
+lib/firebase_options.dart
 
 # Android security: Keystores, private keys, and local properties
 *.keystore
