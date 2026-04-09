@@ -88,9 +88,11 @@ lib/
 > [!TIP]
 > Add screenshots of the Home Screen, First Aid Guide, and PDF Reports here to showcase the UI.
 
-|      Home Screen       |     First Aid Guide     |
-| :--------------------: | :---------------------: |
-| _Placeholder for Home_ | _Placeholder for Guide_ |
+| Home Screen | First Aid Guide |
+|:---:|:---:|
+| <img width="322" height="606" alt="image" src="https://github.com/user-attachments/assets/895133e6-71a5-47bc-8849-4119eb653e5d" />
+ | <img width="319" height="696" alt="image" src="https://github.com/user-attachments/assets/30fdfeba-8f10-4f56-b5bd-3f1f1de2bff6" />
+ |
 
 ---
 
